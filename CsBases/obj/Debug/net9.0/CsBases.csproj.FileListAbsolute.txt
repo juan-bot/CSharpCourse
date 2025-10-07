@@ -1,0 +1,14 @@
+C:\Users\desarrollo1\Desktop\curso\CsBases\bin\Debug\net9.0\CsBases.exe
+C:\Users\desarrollo1\Desktop\curso\CsBases\bin\Debug\net9.0\CsBases.deps.json
+C:\Users\desarrollo1\Desktop\curso\CsBases\bin\Debug\net9.0\CsBases.runtimeconfig.json
+C:\Users\desarrollo1\Desktop\curso\CsBases\bin\Debug\net9.0\CsBases.dll
+C:\Users\desarrollo1\Desktop\curso\CsBases\bin\Debug\net9.0\CsBases.pdb
+C:\Users\desarrollo1\Desktop\curso\CsBases\obj\Debug\net9.0\CsBases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desarrollo1\Desktop\curso\CsBases\obj\Debug\net9.0\CsBases.AssemblyInfoInputs.cache
+C:\Users\desarrollo1\Desktop\curso\CsBases\obj\Debug\net9.0\CsBases.AssemblyInfo.cs
+C:\Users\desarrollo1\Desktop\curso\CsBases\obj\Debug\net9.0\CsBases.csproj.CoreCompileInputs.cache
+C:\Users\desarrollo1\Desktop\curso\CsBases\obj\Debug\net9.0\CsBases.dll
+C:\Users\desarrollo1\Desktop\curso\CsBases\obj\Debug\net9.0\refint\CsBases.dll
+C:\Users\desarrollo1\Desktop\curso\CsBases\obj\Debug\net9.0\CsBases.pdb
+C:\Users\desarrollo1\Desktop\curso\CsBases\obj\Debug\net9.0\CsBases.genruntimeconfig.cache
+C:\Users\desarrollo1\Desktop\curso\CsBases\obj\Debug\net9.0\ref\CsBases.dll
